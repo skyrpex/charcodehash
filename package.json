@@ -1,0 +1,27 @@
+{
+	"name": "charcodehash",
+	"version": "1.0.0",
+	"description": "Hashes a string into a number using a simple and lightweight algorithm",
+	"author": {
+		"name": "Cristian Pallarés",
+		"email": "cristian@pallares.pro"
+	},
+	"license": "MIT",
+	"type": "module",
+	"exports": "./src/charcodehash.ts",
+	"types": "./src/charcodehash.ts",
+	"scripts": {
+		"test": "vitest --typecheck"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "1.9.4",
+		"@types/node": "^22.13.1",
+		"typescript": "^5.7.3",
+		"vitest": "^3.0.5"
+	},
+	"engines": {
+		"node": ">=20"
+	},
+	"sideEffects": false,
+	"packageManager": "npm@11.1.0+sha512.acf301ad9b9ddba948fcb72341e2f0fcae477f56a95cc2a092934d133a7461062633cefbf93d5934a3dc0768674e2edee9f04dcfcc4bb4c327ff0e3a7d552a1b"
+}
