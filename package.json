@@ -1,6 +1,6 @@
 {
 	"name": "charcodehash",
-	"version": "1.0.1",
+	"version": "1.0.0",
 	"description": "Hashes a string into a number using a simple and lightweight algorithm",
 	"author": {
 		"name": "Cristian Pallarés",
