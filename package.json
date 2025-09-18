@@ -1,6 +1,6 @@
 {
 	"name": "charcodehash",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"description": "Hashes a string into a number using a simple and lightweight algorithm",
 	"author": {
 		"name": "Cristian Pallarés",
@@ -14,7 +14,7 @@
 		"test": "vitest --typecheck"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "1.9.4",
+		"@biomejs/biome": "2.2.4",
 		"@types/node": "^22.13.1",
 		"typescript": "^5.7.3",
 		"vitest": "^3.0.5"
