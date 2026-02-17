@@ -14,7 +14,7 @@
 		"test": "vitest --typecheck"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "2.4.1",
+		"@biomejs/biome": "2.4.2",
 		"@types/node": "^25.0.0",
 		"typescript": "^5.7.3",
 		"vitest": "^4.0.1"
